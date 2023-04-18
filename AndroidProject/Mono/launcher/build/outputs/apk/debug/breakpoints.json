@@ -1,0 +1,9 @@
+{
+  "com.unity3d.player.UnityPlayer": [
+    {
+      "cls": "com.unity3d.player.UnityPlayer",
+      "mth": "\u003cinit\u003e(Landroid/content/Context;Lcom/unity3d/player/IUnityPlayerLifecycleEvents;)V",
+      "codeOffset": 191
+    }
+  ]
+}
